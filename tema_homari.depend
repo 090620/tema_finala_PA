@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1716820337 source:c:\users\ungur\desktop\tema_finala_pa\tema_homari\afisare_dimensiune.c
+	<stdio.h>
+	"afisare_homari.h"
+
+1716818425 c:\users\ungur\desktop\tema_finala_pa\tema_homari\afisare_homari.h
+
+1716819729 source:c:\users\ungur\desktop\tema_finala_pa\tema_homari\main.c
+	"header.h"
+
+1716818455 c:\users\ungur\desktop\tema_finala_pa\tema_homari\header.h
+	"afisare_homari.h"
+	"main.h"
+
+1716818425 c:\users\ungur\desktop\tema_finala_pa\tema_homari\main.h
+	<stdio.h>
+
